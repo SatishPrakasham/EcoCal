@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874324570153",
+    "project_id": "ecocal-a24a1",
+    "storage_bucket": "ecocal-a24a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874324570153:android:ee046890a9a1b8e9092c38",
+        "android_client_info": {
+          "package_name": "com.example.ecocal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiF3W_hrS3rRqQ3mRQYaWCbVSxC4qtYMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

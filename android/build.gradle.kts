@@ -1,4 +1,15 @@
+// Add the Google services plugin version
+plugins {
+    id("com.google.gms.google-services") version "4.4.3" apply false
+}
+
 allprojects {
+    buildscript {
+        repositories {
+            google()
+            mavenCentral()
+        }
+    }
     repositories {
         google()
         mavenCentral()
